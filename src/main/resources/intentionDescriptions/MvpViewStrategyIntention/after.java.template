@@ -1,0 +1,4 @@
+class MainView : MvpView {
+    <spot>@StateStrategyType(AddToEndSingleStrategy::class)</spot>
+    fun showData(data:List<String>)
+}
