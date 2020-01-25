@@ -5,7 +5,7 @@ plugins {
 }
 
 group 'maksimnovikov'
-version '1.0.0-android_studio-3.5'
+version '1.0.1-android_studio-3.5'
 
 repositories {
     mavenCentral()

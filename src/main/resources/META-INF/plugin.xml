@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.maksimnovikov.moxystrategy</id>
     <name>Moxy strategy</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <vendor email="rodgersdevelop@gmail.com" url="https://github.com/MaksimNovikov-android/moxy-strategy-plugin" >Maksim Novikov</vendor>
     <description><![CDATA[Add tools for moxy<br/><br/>
      which help add or replace strategy for function in MvpView<br/><br/>
