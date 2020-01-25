@@ -5,7 +5,7 @@ This plugin automates work with [moxy](https://github.com/moxy-community/Moxy) f
 You can download it here https://plugins.jetbrains.com/plugin/13679-moxy-strategy/versions
 
 ## Inspector
-This plugin adds inspector which checks function in intefaceses which inherites MvpView.
+This plugin adds inspector which checks function in intefaceses which implement MvpView.
 
 If function doesn't have any strategy, function will be highlighted and will be suggested add one of strategy.
 
