@@ -23,7 +23,7 @@ fun PsiElement.isClassInheritMvpView(): Boolean {
     val ktClass = getParentOfType<KtClass>() ?: return false
     // we need only interfaces
     if (!ktClass.isInterface()) return false
-    // find moxy PsiCLass
+    // find moxy PsiClass
     val baseClass =
         try {
             JavaPsiFacade.getInstance(project).findClass(
