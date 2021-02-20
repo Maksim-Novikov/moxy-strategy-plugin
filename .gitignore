@@ -1,5 +1,4 @@
 # Project exclude paths
-*.jar
 out/
 .DS_Store
 
